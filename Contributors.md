@@ -3280,5 +3280,5 @@ Disguy
 - [Jacob](https://github.com/jacob-ethan)
 - [Alexsandro Bezerra](https://github.com/AlexsandroBezerra)
 - [Hanefi balcı](https://github.com/hanefibalci)
-- [Jacqueline Ann Lim](https://github.com/)
+- [Jacqueline Ann Lim](https://github.com/jacqueline-ann-lim-s3753072)
 <!-- prettier-ignore-end -->
